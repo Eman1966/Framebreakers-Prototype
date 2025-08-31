@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "29525038810",
+    "project_id": "e-stone2",
+    "storage_bucket": "e-stone2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29525038810:android:a925027a98edb8d688b7e3",
+        "android_client_info": {
+          "package_name": "com.stone.nfc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29525038810-ua7ba6vjsj78svufhli0qo6tf63g2oq5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.stone.nfc",
+            "certificate_hash": "b672cf0a626655c7a25484fd120f47cb3b5cdd22"
+          }
+        },
+        {
+          "client_id": "29525038810-7hfkvojpb1oetqn0cdc75pes1h860rn2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYbXZRednpkKqEbYztBfrBiLBxfxCVz5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29525038810-7hfkvojpb1oetqn0cdc75pes1h860rn2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "29525038810-u6fsr35e914jklef1b57dn475fksrg3l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.stone.nfc"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
